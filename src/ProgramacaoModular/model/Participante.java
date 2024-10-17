@@ -1,4 +1,4 @@
-package ProgramacaoModular.tp1.model;
+package ProgramacaoModular.model;
 
 public abstract class Participante {
     private int numero;

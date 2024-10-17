@@ -1,4 +1,6 @@
-package ProgramacaoModular.tp1.model;
+package ProgramacaoModular.model;
+
+import ProgramacaoModular.utils.Duracao;
 
 public class Ciclista extends Participante {
     private Etapa[] etapas;

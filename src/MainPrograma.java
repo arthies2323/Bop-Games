@@ -1,6 +1,8 @@
-package ProgramacaoModular.tp1;
-
-import ProgramacaoModular.tp1.model.*;
+import ProgramacaoModular.CompeticaoCiclismo;
+import ProgramacaoModular.model.*;
+import ProgramacaoModular.utils.Data;
+import ProgramacaoModular.utils.Duracao;
+import ProgramacaoModular.utils.Hora;
 
 public class MainPrograma {
     public static void main(String[] args) {

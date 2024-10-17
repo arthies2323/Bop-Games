@@ -1,4 +1,7 @@
-package ProgramacaoModular.tp1.model;
+package ProgramacaoModular;
+
+import ProgramacaoModular.model.Ciclista;
+import ProgramacaoModular.utils.Duracao;
 
 import java.util.ArrayList;
 import java.util.List;

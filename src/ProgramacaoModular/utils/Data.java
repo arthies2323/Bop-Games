@@ -1,4 +1,4 @@
-package ProgramacaoModular.tp1.model;
+package ProgramacaoModular.utils;
 
 public class Data {
     private int dia;

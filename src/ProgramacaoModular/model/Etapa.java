@@ -1,4 +1,8 @@
-package ProgramacaoModular.tp1.model;
+package ProgramacaoModular.model;
+
+import ProgramacaoModular.utils.Data;
+import ProgramacaoModular.utils.Duracao;
+import ProgramacaoModular.utils.Hora;
 
 public class Etapa {
     private int numero;
