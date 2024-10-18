@@ -46,4 +46,8 @@ public class CompeticaoCiclismo {
         }
         return vencedor;
     }
+
+    public List<Ciclista> getCiclistas() {
+        return ciclistas;
+    }
 }
